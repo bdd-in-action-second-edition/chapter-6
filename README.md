@@ -1,4 +1,4 @@
-# BDD in Action Second Edition - Chapter 2
+# BDD in Action Second Edition - Chapter 6
 
 ## Code samples
 
@@ -9,7 +9,7 @@ To run the sample code, you will need to install [Java 8 or higher](https://www.
 
 ### Running the sample code
 
-To run the sample project from the command line, open a command line window in the [train-timetables](train-timetables) directory and run the following command:
+To run the sample project from the command line, open a command line window in the [flying-high](flying-high) directory and run the following command:
 ```
 mvn clean verify
 ```
